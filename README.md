@@ -70,10 +70,10 @@ Open your browser and navigate to:
 ## 🖼 Screenshots Samples
 
 ### 📄 Customer Listing Page  
-![Customer List](Screenshots/customer_list.png)
+![Customer List](Screenshots/customer_records.png)
 
 ### ➕ Add New Customer  
-![Add Customer](Screenshots/add_customer.png)
+![Add Customer](Screenshots/add_new_customer.png)
 
 ### ✏ Edit Customer  
 ![Edit Customer](Screenshots/edit_customer.png)
